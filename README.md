@@ -2,7 +2,7 @@
 
 # Custom Select-Dropdown
 
-Read the section **Important Notes** before checking out the [Live Demo]()
+Read the section **Important Notes** before checking out the [Live Demo](https://simone-paglino.github.io/reusable-components/)
 
 <br/>
 
@@ -46,7 +46,7 @@ This project is a relatively simple select-dropdown component. The goal is to cr
 
 ### Demo
 
-The live demo of this project can be found at [this link](https://www.google.com).
+The live demo of this project can be found at [this link](https://simone-paglino.github.io/reusable-components/).
 
 The demo will show a simple dashboard, to interact with the select-dropdown, and the component itself, in order to show how it reacts to the possible inputs that it receives in input.
 
