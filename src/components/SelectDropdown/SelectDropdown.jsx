@@ -30,6 +30,7 @@ const useStyles = makeStyles((theme) => ({
   selectDropdown: ({ fontSizeValueRem, numMaxLengthChars }) => ({
     margin: "auto",
     position: "relative",
+    // Calculate the width based on fontSize expressed in rem and the word with more characters
     width: `calc((${fontSizeValueRem}rem / 2) * ${numMaxLengthChars} + 6.4rem)`,
   }),
   selectDropdownOpener: {
